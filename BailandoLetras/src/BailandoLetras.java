@@ -38,7 +38,7 @@ public class BailandoLetras extends JFrame {
 	 * CREAMOS VENTANA CON DOS BOTONES Y DOS ENTRADAS DE TEXTO
 	 */
 	public BailandoLetras() {
-		setTitle("\u00BFQUIERES QUE BAILEMOS?");
+		setTitle("\u00BFBAILAMOS????");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
